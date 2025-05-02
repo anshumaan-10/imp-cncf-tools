@@ -1,4 +1,4 @@
-# Imp CNCD Tools
+# Imp CNCF Tools
 
 A curated collection of hands-on examples, configurations, and command references for popular DevOps, Cloud Native, and Kubernetes tools. This repository is designed to help practitioners, engineers, and students quickly get started with each tool using well-documented, working examples.
 
